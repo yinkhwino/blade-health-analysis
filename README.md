@@ -26,29 +26,3 @@ npm install
 
 # Run the app
 npm run dev
-
-🤝 Contributing
-
-We welcome contributions! See CONTRIBUTING.md for guidelines.
-
-📜 License
-
-This project is licensed under the MIT License – see LICENSE for details.
-
-🌎 Connect
-
-Follow updates on Twitter @Twitter/yinkhwino and LinkedIn! 🚀
-
- Code of Conduct
-
-Please be respectful and professional in all contributions. See CODE_OF_CONDUCT.md.
-
-📢 Need Help?
-
-Open an issue if you need clarification.
-
-Discuss in GitHub Discussions or Twitter @Twitter/yinkhwino.
-
-
-Happy coding! 🚀
----
