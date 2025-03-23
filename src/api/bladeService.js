@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE_URL = "https://api.example.com/blades"; // Replace with actual API endpoint
+const API_BASE_URL = process.env.API_BASE_URL || "https://defaults.url.com/blades"; // Replace with actual API endpoint
 
 export async function getBladeHealthData() {
   try {
