@@ -4,6 +4,9 @@
 This project is a **Vue.js-based Blade Health Analysis System** designed for aircraft engines.  
 It aims to integrate **Quantum AI for predictive maintenance**, enhancing aerospace safety and efficiency.  
 
+Audio:
+https://www.facebook.com/share/v/16ktvKKnM7/?mibextid=oFDknk
+
 ## 🔧 Features  
 ✅ **Real-time Blade Health Monitoring**  
 ✅ **Digital Twin Visualization**  
